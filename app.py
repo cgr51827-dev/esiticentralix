@@ -5,7 +5,7 @@ import streamlit as st
 # =========================
 # LOGIN
 # =========================
-USERNAME = "user RECAP"
+USERNAME = "RECAP"
 PASSWORD = "Recap26@"
 
 
